@@ -9,5 +9,8 @@ End
 
 InitAr(N)
 {...}
+
+
+
 WriteAr(N)
 {... }
